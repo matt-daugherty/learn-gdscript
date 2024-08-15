@@ -35,8 +35,8 @@ question = "In the above example, what does the number 4 mean?"
 content_bbcode = ""
 hint = ""
 explanation_bbcode = "The code above rotates the character [code]4[/code] radians per second."
-answer_options = [ "It's how fast the character rotates.", "It's how far the character moves in pixels.", "It's how long the rotation takes." ]
-valid_answers = [ "It's how fast the character rotates." ]
+answer_options = [ "It's how many radians the character rotates.", "It's how far the character moves in pixels.", "It's how long the rotation takes." ]
+valid_answers = [ "It's how many radians the character rotates." ]
 is_multiple_choice = false
 do_shuffle_answers = true
 
